@@ -11,7 +11,7 @@ Future Implementations:
 Data Strucutres:
 * Binary Tree
 * AVL Tree
-* Red and Black Tree
+* Red-Black Tree
 * LRU Cache
 
 Algorithms:
