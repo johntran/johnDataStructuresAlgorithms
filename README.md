@@ -5,6 +5,7 @@ Data Structures:
 
 Algorithms:
 * Fisher-Yates Shuffle
+* Binary Search
 
 Future Implementations:
 
