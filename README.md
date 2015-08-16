@@ -3,9 +3,12 @@ Implemented:
 Data Structures:
 * Doubly-Linked List
 
-Algorithms:
-* Fisher-Yates Shuffle
+Searching Algorithms:
 * Binary Search
+
+Sorting Algorithms:
+* Fisher-Yates Shuffle
+* Merge SOrt
 
 Future Implementations:
 
@@ -17,5 +20,4 @@ Data Strucutres:
 
 Algorithms:
 * QuickSort
-* MergeSort
 * BubbleSort
