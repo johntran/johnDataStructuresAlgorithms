@@ -7,8 +7,10 @@ Searching Algorithms:
 * Binary Search
 
 Sorting Algorithms:
+* Merge Sort
+
+Misc Algorithms:
 * Fisher-Yates Shuffle
-* Merge SOrt
 
 Future Implementations:
 
